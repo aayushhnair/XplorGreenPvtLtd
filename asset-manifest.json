@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ExploreGreenPvtLtd/static/css/main.b9bf0747.css",
-    "main.js": "/ExploreGreenPvtLtd/static/js/main.b5d3e7f2.js",
-    "static/js/453.eaf06398.chunk.js": "/ExploreGreenPvtLtd/static/js/453.eaf06398.chunk.js",
-    "index.html": "/ExploreGreenPvtLtd/index.html",
-    "main.b9bf0747.css.map": "/ExploreGreenPvtLtd/static/css/main.b9bf0747.css.map",
-    "main.b5d3e7f2.js.map": "/ExploreGreenPvtLtd/static/js/main.b5d3e7f2.js.map",
-    "453.eaf06398.chunk.js.map": "/ExploreGreenPvtLtd/static/js/453.eaf06398.chunk.js.map"
+    "main.css": "/XplorGreenPvtLtd/static/css/main.b9bf0747.css",
+    "main.js": "/XplorGreenPvtLtd/static/js/main.6a755f15.js",
+    "static/js/453.eaf06398.chunk.js": "/XplorGreenPvtLtd/static/js/453.eaf06398.chunk.js",
+    "index.html": "/XplorGreenPvtLtd/index.html",
+    "main.b9bf0747.css.map": "/XplorGreenPvtLtd/static/css/main.b9bf0747.css.map",
+    "main.6a755f15.js.map": "/XplorGreenPvtLtd/static/js/main.6a755f15.js.map",
+    "453.eaf06398.chunk.js.map": "/XplorGreenPvtLtd/static/js/453.eaf06398.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b9bf0747.css",
-    "static/js/main.b5d3e7f2.js"
+    "static/js/main.6a755f15.js"
   ]
 }
