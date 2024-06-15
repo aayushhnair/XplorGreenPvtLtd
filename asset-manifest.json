@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ExploreGreenPvtLtd/static/css/main.b9bf0747.css",
-    "main.js": "/ExploreGreenPvtLtd/static/js/main.d94f77e2.js",
+    "main.js": "/ExploreGreenPvtLtd/static/js/main.893979fc.js",
     "static/js/453.eaf06398.chunk.js": "/ExploreGreenPvtLtd/static/js/453.eaf06398.chunk.js",
     "index.html": "/ExploreGreenPvtLtd/index.html",
     "main.b9bf0747.css.map": "/ExploreGreenPvtLtd/static/css/main.b9bf0747.css.map",
-    "main.d94f77e2.js.map": "/ExploreGreenPvtLtd/static/js/main.d94f77e2.js.map",
+    "main.893979fc.js.map": "/ExploreGreenPvtLtd/static/js/main.893979fc.js.map",
     "453.eaf06398.chunk.js.map": "/ExploreGreenPvtLtd/static/js/453.eaf06398.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b9bf0747.css",
-    "static/js/main.d94f77e2.js"
+    "static/js/main.893979fc.js"
   ]
 }
