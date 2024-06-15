@@ -1,7 +1,7 @@
 import React from 'react';
 import { categoryDetailsPage as category } from '../Constants/constant';
 import './itemdetails.css'
-
+import { Link } from 'react-router-dom';
 const SubcategoryPage = () => {
 
     const DetailsCard = ({ category }) => {
@@ -28,13 +28,13 @@ const SubcategoryPage = () => {
                 </div>
                 <nav className='navbar'>
                     <ul className='navigation'>
-                        <li><a href="/">Home</a></li>
-                        <li><a href="/details">Biology Mathematics</a></li>
-                        <li><a href="/details">Computer Maths</a></li>
-                        <li><a href="/details">Science</a></li>
-                        <li><a href="/details">Commerce</a></li>
-                        <li><a href="/details">Vocational</a></li>
-                        <li><a href="/details">All</a></li>
+                        <li><Link to={{ pathname: `/ExploreGreenPvtLtd`}}>Home</Link></li>
+                        <li><Link to={{ pathname: `/ExploreGreenPvtLtd/details`}}>Biology Mathematics</Link></li>
+                        <li><Link to={{ pathname: `/ExploreGreenPvtLtd/details`}}>Computer Maths</Link></li>
+                        <li><Link to={{ pathname: `/ExploreGreenPvtLtd/details`}}>Science</Link></li>
+                        <li><Link to={{ pathname: `/ExploreGreenPvtLtd/details`}}>Commerce</Link></li>
+                        <li><Link to={{ pathname: `/ExploreGreenPvtLtd/details`}}>Vocational</Link></li>
+                        <li><Link to={{ pathname: `/ExploreGreenPvtLtd/details`}}>All</Link></li>
 
                     </ul>
                 </nav>

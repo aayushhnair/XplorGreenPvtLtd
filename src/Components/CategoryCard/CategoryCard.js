@@ -5,7 +5,7 @@ import './Category.css';
 const CategoryItem = ({ category }) => {
   return (
     <div className='item'>
-      <Link to={{ pathname: `/details`}}>
+      <Link to={{ pathname: `/ExploreGreenPvtLtd/details`}}>
         <h2>{category.title}</h2>
         <img src={category.image} alt={category.title} />
       </Link>

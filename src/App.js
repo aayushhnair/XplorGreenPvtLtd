@@ -5,12 +5,11 @@ import Home from './Screens/Home';
 import SubcategoryPage from './Screens/ItemDetails';
 
 function App() {
-  
   return (
     <Router>
       <Routes>
-        <Route exact path="/" element={<Home />} />
-        <Route path="/details" element={<SubcategoryPage />} />
+        <Route exact path="/ExploreGreenPvtLtd" element={<Home />} />
+        <Route path="/ExploreGreenPvtLtd/details" element={<SubcategoryPage />} />
       </Routes>
     </Router>
   );
