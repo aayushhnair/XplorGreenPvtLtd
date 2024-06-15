@@ -14,7 +14,7 @@ const Home = () => {
         <div className='container'>
             <header className='header'>
                 <div className='mainheader'>
-                    <h1>EXPLORE GREEN PVT. LTD.</h1>
+                    <h1>XPLOR GREEN PVT. LTD.</h1>
                 </div>
                 <nav className='navbar'>
                     <ul className='navigation'>
