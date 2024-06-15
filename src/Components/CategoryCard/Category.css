@@ -1,0 +1,30 @@
+.item {
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    border: 2px dotted rgb(255, 0, 0);
+    transition: transform 0.3s ease;
+    margin: 1%;
+    flex: 1 1 calc(33.333% - 20px); /* 3 items per row with some spacing */
+    box-sizing: border-box;
+    margin: 10px; /* Spacing between items */
+  }
+  
+  .item:hover {
+    transform: translateY(-5px);
+  }
+  
+  .item img {
+    max-width: 90%;
+    height: auto;
+  }
+
+  .item a{
+    text-decoration: none;
+  }
+  
+  .item h2 {
+    color: chocolate;
+    margin-top: 10px;
+  }
